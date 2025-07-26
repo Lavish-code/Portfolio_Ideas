@@ -30,7 +30,6 @@ A cutting-edge, fully responsive portfolio website that showcases modern web dev
 
 ## 📸 Visual Showcase
 
-<details>
 <summary>🖥️ <strong>Desktop Experience</strong> (Click to expand)</summary>
 
 <br>
@@ -40,8 +39,6 @@ A cutting-edge, fully responsive portfolio website that showcases modern web dev
 
 ![Desktop About Me](./public/about.png)
 *Animated skills visualization*
-
-</details>
 
 ---
 
