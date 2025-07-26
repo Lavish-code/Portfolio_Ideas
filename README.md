@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Portfolio Banner](./screenshots/landing_page.png)
+![Portfolio Banner](./public/landing page.png)
 <!-- Add your main portfolio banner/hero image here -->
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
