@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Portfolio Banner](./public/landing page.png)
+![Portfolio Banner](public/landing_page.png)
 <!-- Add your main portfolio banner/hero image here -->
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -34,7 +34,7 @@ A cutting-edge, fully responsive portfolio website that showcases modern web dev
 
 <br>
 
-![Desktop Hero](./public/landing_page.png)
+![Desktop Hero](public/landing_page.png)
 *Modern hero section with animated elements*
 
 ![Desktop About Me](./public/about.png)
@@ -174,16 +174,14 @@ Navigate to [http://localhost:3000](http://localhost:3000) 🎉
 <details>
 <summary><strong>📝 Update Your Details</strong></summary>
 
-Edit these files to personalize your portfolio:
-
 ```typescript
 // lib/data/personal.ts
 export const personalInfo = {
-  name: "Your Name",
+  name: "Lavish Yadav",
   title: "BackendDeveloper",
-  bio: "Your amazing bio here...",
+  bio: "Passionate Backend Developer",
   location: "Your City, Country",
-  email: "your.email@example.com",
+  email: "ylavish07@example.com",
   // ... more fields
 }
 ```
@@ -242,10 +240,8 @@ module.exports = {
 <summary><strong>📷 Add Your Images</strong></summary>
 
 Replace placeholder images in:
-- `public/images/profile.jpg` - Your profile photo
+- `public/ME.jpg` - Your profile photo
 - `public/images/projects/` - Project screenshots
-- `public/images/logos/` - Company/skill logos
-- `public/favicon.ico` - Your favicon
 
 Optimize images using:
 ```bash
@@ -336,8 +332,6 @@ Reusable components built with Radix UI primitives and custom styling.
 
 ### 🚀 Lighthouse Scores
 
-![Lighthouse Performance](./screenshots/lighthouse-performance.png)
-
 | Metric | Score | Status |
 |--------|-------|--------|
 | 🚀 **Performance** | 98/100 | ✅ Excellent |
@@ -420,11 +414,10 @@ Hey there! 👋 I'm a passionate developer who loves creating beautiful, functio
 - 📱 **Mobile Development** - React Native, Flutter
 
 ### 🌐 **Let's Connect**
-- 🌍 **Website**: [your-website.com](https://your-website.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-linkedin)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/lavish-yadav-94765821a)
 - 🐱 **GitHub**: [@Lavish-code](https://github.com/Lavish-code)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+- 📧 **Email**: [lavishyadav000@gmail.com](mailto:ylavish07@gmail.com)
+- 🐦 **Twitter**: [@lavishcodes](https://twitter.com/lavish_yadav764)
 
 ---
 
