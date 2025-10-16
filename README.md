@@ -1,6 +1,6 @@
 # 🚀 Portfolio Website
 
-> ✨ Just brushing up my frontend skills........ 💻
+> ✨ Just brushing up my frontend skills.......... 💻
 
 <div align="center">
 
